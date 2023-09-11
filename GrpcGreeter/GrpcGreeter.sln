@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcGreeter", "GrpcGreeter\GrpcGreeter.csproj", "{DD27CEC4-9C07-4951-AF44-2088980DCECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD27CEC4-9C07-4951-AF44-2088980DCECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD27CEC4-9C07-4951-AF44-2088980DCECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD27CEC4-9C07-4951-AF44-2088980DCECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD27CEC4-9C07-4951-AF44-2088980DCECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09AEC72B-0889-4906-8F43-E59FF626E721}
+	EndGlobalSection
+EndGlobal
