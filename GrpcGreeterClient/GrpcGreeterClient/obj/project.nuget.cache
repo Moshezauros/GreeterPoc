@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dNTr6EhXiA+Qko2zP5L//wF+HsFVLhW1Ip/FEB1JH0oaTYB3tzBUKokrM4mOK/YJXioVZCYDZ1ODwHR637pe7g==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\GrpcGreeterClient\\GrpcGreeterClient\\GrpcGreeterClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moshe\\.nuget\\packages\\google.protobuf\\3.24.2\\google.protobuf.3.24.2.nupkg.sha512",
+    "C:\\Users\\moshe\\.nuget\\packages\\grpc.core.api\\2.57.0-pre1\\grpc.core.api.2.57.0-pre1.nupkg.sha512",
+    "C:\\Users\\moshe\\.nuget\\packages\\grpc.net.client\\2.57.0-pre1\\grpc.net.client.2.57.0-pre1.nupkg.sha512",
+    "C:\\Users\\moshe\\.nuget\\packages\\grpc.net.common\\2.57.0-pre1\\grpc.net.common.2.57.0-pre1.nupkg.sha512",
+    "C:\\Users\\moshe\\.nuget\\packages\\grpc.tools\\2.58.0-pre1\\grpc.tools.2.58.0-pre1.nupkg.sha512",
+    "C:\\Users\\moshe\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
